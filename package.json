@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnixon88/intro-to-node.git"
+    "url": "https://github.com/bnixon88/intro-to-node.git"
   },
   "author": "Bradley Nixon",
   "license": "MIT",
